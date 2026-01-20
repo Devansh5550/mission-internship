@@ -7,3 +7,4 @@ Day 5: Functions, parameters, return values, modular code
 Day 6: Lists, tuples, dictionaries, data handling programs
 Day 7: Mini Project – Student Result Management System
 Day 8: File handling – read & write student records
+Day 9: Error handling using try–except
