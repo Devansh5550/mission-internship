@@ -6,3 +6,4 @@ Day 4: for loop, while loop, pattern printing, loop control
 Day 5: Functions, parameters, return values, modular code
 Day 6: Lists, tuples, dictionaries, data handling programs
 Day 7: Mini Project – Student Result Management System
+Day 8: File handling – read & write student records
