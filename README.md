@@ -9,3 +9,4 @@ Day 7: Mini Project – Student Result Management System
 Day 8: File handling – read & write student records
 Day 9: Error handling using try–except
 Day 10: Modular and clean code using functions
+Day 11: CSV file handling for structured data storage
